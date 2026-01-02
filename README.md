@@ -52,16 +52,7 @@
 2. **➕ Add Employee Module**
 - Allows administrators to add complete employee details such as personal information, designation, salary, joining date, and employment status.
 
-- Captured Fields:
-Full Name
-Employee ID
-Designation
-Mobile Number
-Date of Birth
-Joining Date
-Salary
-Address
-Active Employee Status
+- Captured Fields: Full Name, Employee ID, Designation, Mobile Number, Date of Birth, Joining Date, Salary, Address, Active Employee Status
 
 ![Add Employee](Add_Employees_Details.png)
 
@@ -72,37 +63,31 @@ Active Employee Status
 
 4. **🕒 Attendance Management Module**
 
-- Allows marking daily attendance using multiple options:
-Present
-Absent
-Half Day
-Holiday
+- Allows marking daily attendance using multiple options: Present, Absent, Half Day, Holiday
 
-Additional inputs include:
-Advance / Loan
-Extra Bonus
+Additional inputs include: Advance / Loan, Extra Bonus
 
 ![Attendance Page](Attendance_Page.png)
 
 5. **📜 Attendance Criteria Module**
 
 Defines organizational attendance rules such as:
-Full day working hours
-Half day timings
-Early leave conditions
-Earned leave policy
-Ensures standardized attendance tracking across the organization.
+- Full day working hours
+- Half day timings
+- Early leave conditions
+- Earned leave policy
+- Ensures standardized attendance tracking across the organization.
 
 ![Organization Attendance Criteria](Organization_Attendance_Report.png)
 
 6. **📊 Monthly Summary Report**
 
 Displays monthly attendance summaries for each employee, including:
-Present Days (P)
-Absent Days (A)
-Half Days (HD)
-Holidays (H)
-Non-Working Days (NW)
+- Present Days (P)
+- Absent Days (A)
+- Half Days (HD)
+- Holidays (H)
+- Non-Working Days (NW)
 Useful for payroll processing and performance evaluation.
 
 ![Attendance Summary Report](Summary_Report.png)
